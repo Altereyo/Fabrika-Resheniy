@@ -10,8 +10,7 @@ https://nodejs.org/en/
 npm install
 ```
 
-## Далее запустите сервер и дождитесь надписи 
-***Server running at:***
+## Далее запустите сервер и дождитесь надписи ***Server running at:***
 ```
 npm run express:run
 ```

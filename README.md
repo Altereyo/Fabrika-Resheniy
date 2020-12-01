@@ -1,19 +1,21 @@
-# fabrika-resheniy
+# Фабрика Решений
 
-## Project setup
+## Для начала вам нужно установить Node.js
+```
+https://nodejs.org/en/
+```
+
+## Далее откройте папку с проектом через терминал и установите пакеты NPM
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Далее запустите сервер и дождитесь надписи 
+***Server running at:***
+```
+npm run express:run
+```
+## Теперь можете запускать проект
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

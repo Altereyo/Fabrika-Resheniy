@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "type": "resp-age",
+        "conditions": [
+            {
+                "from": "18",
+                "to": "24" 
+            },
+            {
+                "from": "34",
+                "to": "38"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "resp-town",
+        "conditions": ["Moscow", "London"]
+    },
+    {
+        "id": 3,
+        "type": "card-type",
+        "conditions": ["bronze", "gold"]
+    },
+    {
+        "id": 4,
+        "type": "card-status",
+        "conditions": ["active"]
+    }
+]
